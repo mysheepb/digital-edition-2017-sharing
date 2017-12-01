@@ -1,8 +1,11 @@
 ## 人文及社會科學數位版本的持續創建
 
-You can use the [editor on GitHub](https://github.com/mysheepb/digital-edition-2017-sharing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+建議流程和內容
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+單元 | 題目 | 內容 | 時間（分鐘） 
+---- | ---- | --- | -----------
+ 0 | 引言 | 是次分享目的 | 5 
+ || 簡介匹茲堡工作坊|
 
 ### Markdown
 

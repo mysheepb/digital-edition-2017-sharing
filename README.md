@@ -9,12 +9,12 @@
  2.1 | [基礎：文本預備](topic2-text/text-prep.md)  |  15 |
  2.2 | [認識 XML](topic2-text/intro_xml.md)  |  15 |
  3 | [文本分析的基本要素](topic3-analysis/analysis.md)  |  20 |
- &nbsp; | &nbsp;&nbsp;休息  |  10 |
+ &nbsp; | &nbsp;&nbsp;*休息*  |  10 |
  4 | [計畫管理](topic4-management/management.md)  |  20 |
  5 | [外界聯繫（一）：展示成果](topic5-visualization/visualization.md)  |  20 |
  6 | [外界聯繫（二）：使成果更有用](topic6-external/external.md)  |  20 |
  7 | [進階文本分析](topic7-advanced/advanced.md) |  20 |
- 8 | &nbsp; |  20 |
+ 8 | 討論 Q&A |  20 |
 
 
 ### 0. 引言

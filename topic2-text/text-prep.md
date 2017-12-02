@@ -6,3 +6,7 @@
 
 
 ### 認識 XML (eXtensible Markup Language 可延伸標記語言)
+
+
+## 參考資料
+* 周邦信，〈標記語言的應用〉，《佛教圖書館館訊》，第24期。<http://www.gaya.org.tw/journal/m24/24-main5.htm>

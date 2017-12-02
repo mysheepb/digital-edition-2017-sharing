@@ -10,8 +10,13 @@
 是用來定義markup language（標記語言）的一種標準。
 
 
-### 什麼是 markup language（標記語言）
+### 什麼是 markup（標記）？
+* 在文字上加上標記，可以增添純文字不能表達的資料（information）
+* 目的：我們（意會而）知道的，（以明示的方式）讓機器知道。
+* 兩主要類別：「排版或顯示格式」的標記 &「資料結構或內容」的標記 
+* 
 
 
 ## 參考資料
 * 周邦信，〈標記語言的應用〉，《佛教圖書館館訊》，第24期。<http://www.gaya.org.tw/journal/m24/24-main5.htm>
+* James Cummings, “An Introduction to Markup, XML, TEI, and the oXygen XML Editor,” Prezi presentation, https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/.

@@ -23,7 +23,7 @@
 ### XML 特色
 * 自訂標籤（tag）意義（不同HTML等有一套既定的標籤）
 * 標籤資料結構或內容而非顯示格式：可以在不同媒體或用途上有不同顯示格式
-* 開始標籤 <**_element\_name_**> 和結束標籤 </**_element\_name_**>
+* 開始標籤 <_element\_name_> 和結束標籤 <**/**_element\_name_>
 * element 可以有一個或多個 attribute
 * 
 

@@ -28,4 +28,4 @@
 * 找出不同版本 editions 間修改之處
 * 大、小的增、刪、改內容、改次序、⋯⋯等
 * 引用、重寫
-* example: (http://juxtacommons.org/shares/nDPeai)
+* example: [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)

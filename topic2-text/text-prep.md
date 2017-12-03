@@ -13,9 +13,12 @@
 ### 什麼是 markup（標記）？
 * 在文字上加上標記，可以增添純文字不能表達的資料（information）
 * 目的：我們（意會而）知道的，（以明示的方式）讓**機器**知道。
-  * [人手標記《成唯識論》範本](http://kobayashi.jimbou.net/catalog/images/products/c2200/34672.jpg)
+  * [人手標記的《成唯識論》範本](http://kobayashi.jimbou.net/catalog/images/products/c2200/34672.jpg)
 * 兩主要類別：「排版或顯示格式」的標記 &「資料結構或內容」的標記 
-* 
+  * 「排版或顯示格式」標記：e.g. `\textcolor{red}{-1000元}`
+    * HTML, TeX, etc.
+  * 「資料結構或內容」標記：e.g. `<measure unit="TWD" value="-1000">負債臺幣壹仟圓</measure>`
+    * XML
 
 
 ## 參考資料

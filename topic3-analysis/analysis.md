@@ -31,3 +31,4 @@
 * 大、小的增、刪、改內容、改次序、⋯⋯等
 * 引用、重寫
 * example: [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)
+* example2: [斯拉夫語](http://pvl.obdurodon.org/browser.xhtml)

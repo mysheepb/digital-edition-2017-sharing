@@ -20,8 +20,9 @@
 * 方便分析（e.g. 統計、比較)
 * check, checking, checked (stem: check)
 * document, documents, documentation (stem: document)
-* 不同的normalization
+* 不同的 [normalization](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/e8d001d3ab0d870c7c492fb0061c4d2ebae3929b/schedule/week_2/Normalization.ipynb)
   * [examples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0dff3cb0700ba2b8718a730c3948e07703a4ce71/schedule/week_2/Normalization_examples.ipynb)
+
 
 ### collation
 * 比照同一作品的不同的抄本 witnesses

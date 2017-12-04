@@ -20,7 +20,8 @@
 * 方便分析（e.g. 統計、比較)
 * check, checking, checked (stem: check)
 * document, documents, documentation (stem: document)
-
+* 不同的normalization
+  * [exmaples](Institute-Materials-2017/schedule/week_2/Normalization.ipynb)
 
 ### collation
 * 比照同一作品的不同的抄本 witnesses

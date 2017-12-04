@@ -21,7 +21,7 @@
 * check, checking, checked (stem: check)
 * document, documents, documentation (stem: document)
 * 不同的normalization
-  * [exmaples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/79a0f05e641e954ae8ecd1396817478544aafcbd/schedule/week_2/computational_pipeline.md)
+  * [examples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0dff3cb0700ba2b8718a730c3948e07703a4ce71/schedule/week_2/Normalization_examples.ipynb)
 
 ### collation
 * 比照同一作品的不同的抄本 witnesses

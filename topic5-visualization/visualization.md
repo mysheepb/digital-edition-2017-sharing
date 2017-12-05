@@ -4,3 +4,6 @@
   * 在 TEI Tapas 資料庫分享文本
   * 利用 CETEIcean 直接出版 TEI 檔 • 鍵連開放資料 Linked Open Data
 * 成果圖像化 Visualization
+
+### 實例
+* http://shelleygodwinarchive.org/sc/oxford/ms_abinger/c56/#/p11

@@ -17,7 +17,7 @@
 * 讓機器（電腦）能查詢和下載資料
 
 ### 網上出版框架（如 Flask 等）
-
+* 試用Flask
 
 ### 參考資料
 * [Week 3: Pubcamp: Expressing the edition, digital publication](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/ed3fe0a1f857d7e305eff95f6c22bd4ba51ce3e4/schedule/week_3/topics.md)

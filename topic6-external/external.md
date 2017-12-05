@@ -5,8 +5,14 @@
 
 
 ### XML 資料庫
+* 直接搜索和詢問XML檔案，匯出結果
+* [eXist-db 開源軟體](http://exist-db.org)
+  * The Buddhist Digital Resource Center: https://www.tbrc.org
+  * [Repertorium of Old Bulgarian Literature and Letters](http://repertorium.obdurodon.org/)
+
 
 ### 提供網上資料交換，帶動進一步研究：API
+
 
 #### 參考資料
 * [Week 3: Pubcamp: Expressing the edition, digital publication](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/ed3fe0a1f857d7e305eff95f6c22bd4ba51ce3e4/schedule/week_3/topics.md)

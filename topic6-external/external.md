@@ -16,10 +16,9 @@
 * 不只網頁（人能明白）
 * 讓機器（電腦）能查詢和下載資料
 
-#### 參考資料
-* [Week 3: Pubcamp: Expressing the edition, digital publication](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/ed3fe0a1f857d7e305eff95f6c22bd4ba51ce3e4/schedule/week_3/topics.md)
-* 參考 [Introduction to Flask](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0759f3fb4661b8d12f2e1b18f72f1bcc2103b35e/schedule/week_3/flask_micro_framework.md)
-
 ### 網上出版框架（如 Flask 等）
 
 
+### 參考資料
+* [Week 3: Pubcamp: Expressing the edition, digital publication](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/ed3fe0a1f857d7e305eff95f6c22bd4ba51ce3e4/schedule/week_3/topics.md)
+* 參考 [Introduction to Flask](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0759f3fb4661b8d12f2e1b18f72f1bcc2103b35e/schedule/week_3/flask_micro_framework.md)

@@ -4,6 +4,8 @@
 
 
 ### 單獨檔案模式 + 工作流水線模型
+* 「化整為零」－ 小步驟
+* 只修改一個原始檔案 － 以後的「產品」可以丟棄
 * 哥德堡模型 The Gothenburg Model
 * [@CollateX](https://collatex.net/doc/)
 * [@Pittsburgh Institute](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/master/schedule/week_2/Normalization.ipynb)

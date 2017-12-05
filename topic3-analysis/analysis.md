@@ -24,6 +24,12 @@
   * [examples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0dff3cb0700ba2b8718a730c3948e07703a4ce71/schedule/week_2/Normalization_examples.ipynb)
 
 
+### 數位工具/程式語言
+* CollateX - **Python**
+* Juxta
+
+
+
 ### collation
 * 比照同一作品的不同的抄本 witnesses
 * 找出文本間不同之處

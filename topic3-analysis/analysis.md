@@ -40,3 +40,6 @@
   * example: [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)
 * 編程 example: [斯拉夫語](http://pvl.obdurodon.org/browser.xhtml)
 
+#### 學編程
+* [The Programming Historian](https://programminghistorian.org/)
+

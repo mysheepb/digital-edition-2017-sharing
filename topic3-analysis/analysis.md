@@ -14,20 +14,15 @@
   * l'hôtel -> l' / hôtel
   * aujourd'hui  
 * 東亞語言（中日韓）：斷詞
+  * DocuSky: http://docusky.digital.ntu.edu.tw
 
 
 ### normalization
 * 方便分析（e.g. 統計、比較)
 * check, checking, checked (stem: check)
 * document, documents, documentation (stem: document)
-* 不同的 [normalization](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/e8d001d3ab0d870c7c492fb0061c4d2ebae3929b/schedule/week_2/Normalization.ipynb)
-  * [examples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/0dff3cb0700ba2b8718a730c3948e07703a4ce71/schedule/week_2/Normalization_examples.ipynb)
-
-
-### 數位工具/程式語言
-* CollateX - **Python**
-* Juxta
-
+* 不同的 [normalization](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/master/schedule/week_2/Normalization.ipynb)
+  * [examples](https://github.com/Pittsburgh-NEH-Institute/Institute-Materials-2017/blob/master/schedule/week_2/Normalization_examples.ipynb)
 
 
 ### collation
@@ -37,5 +32,11 @@
 * 大、小的增、刪、改內容、改次序、⋯⋯等
 * 引用、重寫
 * example: [Frankenstein 「科學怪人／法蘭克斯坦」](https://github.com/ebeshero/Pittsburgh_Frankenstein/blob/master/collateXPrep/c56_textTableOutput/collation_C13.txt)
+
+
+### 數位工具/程式語言
+* [CollateX](https://collatex.net/) - **Python**
+* Juxta
 * example: [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)
 * example2: [斯拉夫語](http://pvl.obdurodon.org/browser.xhtml)
+

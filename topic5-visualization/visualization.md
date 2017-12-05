@@ -9,7 +9,11 @@
 
 ### 網上出版
 #### 在 TEI Tapas 資料庫分享文本
+* http://tapasproject.org/
+
 #### 利用 CETEIcean 直接出版 TEI 檔
+* https://github.com/TEIC/CETEIcean
+
 #### 鍵連開放資料 Linked Open Data
 
 ### 成果圖像化 Visualization 實例

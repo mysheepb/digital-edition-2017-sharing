@@ -14,5 +14,6 @@
 
 ### 成果圖像化 Visualization 實例
 * http://shelleygodwinarchive.org/sc/oxford/ms_abinger/c56/#/p11
-* example: [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)
-* example2: [斯拉夫語](http://pvl.obdurodon.org/browser.xhtml)
+* http://zatochnik.obdurodon.org/
+* [L’Estrange’s 1870 edition of Mitford’s Letter to Benjamin Robert Haydon of Oct. 31, 1821 vs. Our Transcription from Manuscript](http://juxtacommons.org/shares/nDPeai)
+* [斯拉夫語](http://pvl.obdurodon.org/browser.xhtml)

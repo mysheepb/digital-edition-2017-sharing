@@ -26,7 +26,7 @@
 
 
 ### collation
-* 比照同一作品的不同的抄本 witnesses
+* 比照同一作品的不同的抄本見證 manuscript witnesses
 * 找出文本間不同之處
 * 找出不同版本 editions 間修改之處
 * 大、小的增、刪、改內容、改次序、⋯⋯等

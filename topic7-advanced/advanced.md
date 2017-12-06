@@ -3,3 +3,5 @@
   * 作者鑑定
   * Cluster Analysis 聚類分析
   * N-Gram N元語法分析
+    * Principal Components Analysis PCA
+    * Vector space model

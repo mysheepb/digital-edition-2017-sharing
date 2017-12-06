@@ -18,4 +18,4 @@
 
 
 ### 有用的連結
-* 學Python：(https://www.codeacademy.com)
+* 學Python：[https://www.codeacademy.com](https://www.codeacademy.com)

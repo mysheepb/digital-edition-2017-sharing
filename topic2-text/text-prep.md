@@ -30,4 +30,4 @@
 
 ## 參考資料
 * 周邦信，〈標記語言的應用〉，《佛教圖書館館訊》，第24期。<http://www.gaya.org.tw/journal/m24/24-main5.htm>
-* James Cummings, “An Introduction to Markup, XML, TEI, and the oXygen XML Editor,” Prezi presentation, https://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/.
+* James Cummings, “An Introduction to Markup, XML, TEI, and the oXygen XML Editor,” Prezi presentation, http://prezi.com/jiwc-yg9wmlq/an-introduction-to-markup-xml-tei-and-the-oxygen-xml-editor/.
